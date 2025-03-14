@@ -1,5 +1,5 @@
 name: tagged_builder
-description: A new Flutter package project.
+description: 'TaggedBuilder is a lightweight, flexible Flutter state management solution that uses tags to identify and track state changes, making your code clearer, more modular, and easier to maintain.'
 version: 1.0.0
 homepage: 'https://selfstudio.fun'
 repository: 'https://github.com/CodeEagle/tagged_builder'
